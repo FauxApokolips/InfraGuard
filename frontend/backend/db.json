@@ -1,0 +1,34 @@
+{
+  "infrastructure": [
+    {
+      "name": "Partioning ",
+      "status": "Active"
+    },
+    {
+      "name": "Segmentation",
+      "status": "InActive"
+    },
+    {
+      "name": "Inspect Test",
+      "status": "Currently On"
+    },
+    {
+      "name": "TerreTest Results",
+      "status": "InActive"
+    },
+    {
+      "name": "Pipelining",
+      "status": "Active"
+    },
+    {
+      "name": "Monitoring",
+      "status": "Active"
+    },
+    {
+      "name": "Logging",
+      "status": "Active"
+    }
+  ],
+  "inspec": [],
+  "terratest": []
+}

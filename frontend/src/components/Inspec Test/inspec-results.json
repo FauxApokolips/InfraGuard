@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Check SSH Config",
+    "status": "Passed",
+    "duration": "2.3s",
+    "severity": "Low"
+  },
+  {
+    "name": "Ensure Firewall is Active",
+    "status": "Failed",
+    "duration": "1.1s",
+    "severity": "High"
+  },
+  {
+    "name": "Validate User Password Policy",
+    "status": "Passed",
+    "duration": "3.5s",
+    "severity": "Medium"
+  },
+  {
+    "name": "Verify Disk Encryption",
+    "status": "Pending",
+    "duration": "—",
+    "severity": "Critical"
+  },
+  {
+    "name": "Audit Admin Group Membership",
+    "status": "Passed",
+    "duration": "1.8s",
+    "severity": "Medium"
+  },
+  {
+    "name": "Confirm Time Synchronization",
+    "status": "Passed",
+    "duration": "2.0s",
+    "severity": "Low"
+  }
+]

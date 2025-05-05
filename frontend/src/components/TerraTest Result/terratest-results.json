@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Validate VPC Setup",
+      "status": "Passed"
+    },
+    {
+      "name": "Ensure IAM Roles",
+      "status": "Passed"
+    },
+    {
+      "name": "Infrastructure Deployment",
+      "status": "Passed"
+    },
+    {
+      "name": "Load Balancer Check",
+      "status": "Passed"
+    },
+    {
+      "name": "Verify Subnets",
+      "status": "Pending"
+    },
+    {
+      "name": "DNS Resolution",
+      "status": "Pending"
+    },
+    {
+      "name": "Check Load Balancer",
+      "status": "Failed"
+    },
+    {
+      "name": "Resource Allocation",
+      "status": "Failed"
+    }
+  ]
+  

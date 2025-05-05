@@ -1,0 +1,21 @@
+[
+    {
+      "time": "2025-04-09T03:00:00Z",
+      "action": "Terraform Apply",
+      "status": "Success",
+      "message": "All infrastructure created successfully."
+    },
+    {
+      "time": "2025-04-09T01:30:00Z",
+      "action": "Terraform Plan",
+      "status": "Info",
+      "message": "No changes. Infrastructure up-to-date."
+    },
+    {
+      "time": "2025-04-08T01:15:00Z",
+      "action": "Terraform Destroy",
+      "status": "Failed",
+      "message": "Error destroying resources: dependency conflict."
+    }
+  ]
+  
